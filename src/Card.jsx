@@ -13,7 +13,7 @@ const Card = ({ image, titlecolor, title, icon, icon2, description, date, locati
                         </h2>
                         <div className="flex gap-2">
                             <a href="https://github.com/Marakarn/Corgi-Milkshake-Final-Project.git" target="_blank" ><img className="w-[24px]" src={`${icon}`} /> </a>
-                            <a href="https://www.google.com/" target="_blank" ><img className="w-[24px]" src={`${icon2}`} /> </a>
+                            <a href="https://greensculpt.vercel.app/" target="_blank" ><img className="w-[24px]" src={`${icon2}`} /> </a>
                         </div>
                     </div>
 
