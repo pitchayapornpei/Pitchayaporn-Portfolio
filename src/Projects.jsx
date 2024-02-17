@@ -25,7 +25,7 @@ const Projects = () => {
             <section className="md:mx-24 md:mt-24 md:mb-24 flex flex-col md:flex-row p-3 md:p-0">
                 <article className="flex flex-row flex-wrap justify-around gap-[20px]">
                     <Card
-                        image={"https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"}
+                        image={"./GreenSculpt.png"}
                         titlecolor={"text-[#8BCA00]"}
                         title={"Green Sculpt"}
                         icon={"./github.png"}
