@@ -15,7 +15,7 @@ const AboutMe = () => {
         <>
             <section className="md:mx-24 md:mt-[200px] md:mb-24 flex flex-col md:flex-row pt-20" id="aboutme">
                 <article className="mt-5 md:mt-0 md:w-2/5">
-                    <img className="p-5 md:p-0 w-[493px] mx-auto mb-[20px] relative z-10" src="./image-peipei2.jpg" />
+                    <img className="p-5 md:p-0 w-[493px] mx-auto mb-[20px] relative z-10" src="./ImageProfile2.jpg" />
                 </article>
                 <article className="flex flex-col justify-center md:w-3/5 p-[48px]">
                     <div className="text-center md:text-start">
@@ -23,7 +23,7 @@ const AboutMe = () => {
                         <Title text={"About me"} />
                     </div>
                     <p className="text-xl font-normal text-[#696464] pt-[16px]">
-                        I’m a graduate of the Junior Software Developer Programme(Cohort 6) at Generation Thailand. In my previous internship as a Web Application Developer, I was responsible for creating and developing web applications. Additionally, in my role as a Product Owner & UX/UI Designer, I was responsible for defining requirements and designing the user interface web applications.
+                        I'm currently working as a Business Analyst at SCG, having previously gained experience as an Assistant Product Owner at Gofive. I'm also a graduate of the Junior Software Developer Programme (Cohort 6) at Generation Thailand. During my prior internship as a Web Application Developer, I was responsible for creating and developing web applications. Additionally, in my role as a Product Owner & UX/UI Designer, I took charge of defining requirements and designing user interfaces for web applications.
                     </p>
                 </article>
             </section>

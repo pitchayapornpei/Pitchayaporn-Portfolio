@@ -24,13 +24,159 @@ const Experiences = () => {
                 </div>
             </article>
 
-            <section className="md:mx-24 md:mt-[100px] md:mb-24 flex flex-col md:flex-row">
+            <section className="md:mx-24 md:mt-24 md:mb-24 flex flex-col md:flex-row">
+                <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
+                            rounded-[100%] absolute z-0 top-[90%] translate-x-[-50%] translate-y-[2300%]
+                            blur-[100px]">
+                </div>
                 <article className="mt-5 md:mt-0 md:w-2/5">
+                    <p className="text-xl font-normal text-[#696464] hidden md:block">
+                        September, 2024 - Present
+                    </p>
+                </article>
+                <article className="md:w-3/5 px-[48px]">
+                    <p className="text-2xl font-semibold text-[#696464] mt-10 md:mt-0">
+                        Business Analyst
+                    </p>
+                    {/* <p className="text-xl font-semibold text-[#FC8178] py-4">
+                        Business Analyst
+                    </p> */}
+                    <p className="text-xl font-normal text-[#696464] md:hidden block mb-5">
+                        September, 2024 - Present
+                    </p>
+                    <p className="text-xl font-normal text-[#696464]">
+                        | SCG LIVING AND HOUSING SOLUTION CO., LTD
+                    </p>
+                    <ul class="list-disc text-xl font-normal text-[#696464] pl-[24px] py-4">
+                        <li>Responsible for overseeing the IT system (Web Application) with a solid understanding of business processes related to purchasing, sales, inventory, and basic accounting.</li>
+                        <li>Provide consultation and initial troubleshooting support for system users.</li>
+                        <li>Gather and summarize business requirements or user-reported issues, including system enhancements, and prepare design documents while verifying solutions provided by vendors.</li>
+                        <li>Design test scenarios and coordinate system testing with end-users.</li>
+                    </ul>
+                </article>
+            </section>
+
+            <section className="md:mx-24 md:mt-24 md:mb-24 flex flex-col md:flex-row">
+                <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
+                            rounded-[100%] absolute z-0 top-[90%] translate-x-[-50%] translate-y-[2300%]
+                            blur-[100px]">
+                </div>
+                <article className="mt-5 md:mt-0 md:w-2/5">
+                    <p className="text-xl font-normal text-[#696464] hidden md:block">
+                        October, 2023 - November, 2023 &
+                    </p>
+                    <p className="text-xl font-normal text-[#696464] hidden md:block">
+                        March, 2024 - September, 2024
+                    </p>
+                </article>
+                <article className="md:w-3/5 px-[48px] mt-10 md:mt-0">
+                    <p className="text-2xl font-semibold text-[#696464]">
+                        Assistant Product Owner
+                    </p>
+                    {/* <p className="text-xl font-semibold text-[#FC8178] py-4">
+                        Business Analyst
+                    </p> */}
+                    <p className="text-xl font-normal text-[#696464] md:hidden block mb-5">
+                        October, 2023 - November, 2023 &
+                    </p>
+                    <p className="text-xl font-normal text-[#696464] md:hidden block mb-5">
+                        March, 2024 - September, 2024
+                    </p>
+                    <p className="text-xl font-normal text-[#696464]">
+                        | Gofive
+                    </p>
+                    <ul class="list-disc text-xl font-normal text-[#696464] pl-[24px] py-4">
+                        <li>Create, prioritize and maintain feature lists and user stories on the development scope for sprints.</li>
+                        <li>Researched and analyzed the market and users to understand insights, needs and pain points for developing product improvements and new features.</li>
+                        <li>Manage the product backlog and ensure that the development team(s) consistently delivers on the client's needs and wants.</li>
+                        <li>Eliciting and codifying requirements into specific tools (e.g. JIRA) to guarantee effective demand management and job sequencing.</li>
+                        <li>Work within an Agile environment to deliver large and complex products.</li>
+                        <li>Work cross-functionally with UI/UX designers, IT and Customer Service that meet the business requirements.</li>
+                    </ul>
+                </article>
+            </section>
+
+            <section className="md:mx-24 md:mt-[100px] md:mb-24 flex flex-col md:flex-row">
+                <article className="flex flex-col justify-between mt-5 md:mt-0 md:w-2/5">
+                    <p className="text-xl font-normal text-[#696464] hidden md:block">
+                        September, 2024
+                    </p>
+                </article>
+                <article className="md:w-3/5 px-[48px] mt-10 md:mt-0">
+                    <p className="text-2xl font-semibold text-[#696464]">
+                        Product Blend: Where Business, Tech, Design, Data come together flawlessly.
+                    </p>
+                    {/* <p className="text-xl font-semibold text-[#FC8178] py-4">
+                        Product Blend: Where Business, Tech, Design, Data come together flawlessly.
+                    </p> */}
+                    <p className="text-xl font-normal text-[#696464] md:hidden block mb-5">
+                        September, 2024
+                    </p>
+                    <p className="text-xl font-normal text-[#696464]">
+                        | PM Corner Thailand x หมีเรื่องมาเล่า
+                    </p>
+                    <ul class="list-disc text-xl font-normal text-[#696464] pl-[24px] py-4">
+                        <li>Whether you come from a business, technology, design, or data background, we welcome your voice and those around you. By listening and understanding each other, we aim to collaborate in creating better products together.</li>
+                        <li>Connect with fellow product creators, whether from the same or different lines of work.</li>
+                        <li>Engage in meaningful conversations to better understand each other's challenges.</li>
+                        <li>Let us help you brainstorm solutions that you can take back and apply to your work.</li>
+                    </ul>
+                </article>
+            </section>
+            <section className="w-full flex px-[48px] gap-5 flex-col md:flex-row">
+                <article className="flex-1">
+                    <img className="w-full mx-auto mb-[20px] relative z-10 object-cover h-full" src="./PM1.jpg" />
+                </article>
+                <article className="flex-1">
+                    <img className="w-full mx-auto mb-[20px] relative z-10 object-cover h-full" src="./PM2.jpg" />
+                </article>
+            </section>
+
+            <section className="md:mx-24 md:mt-[100px] md:mb-24 flex flex-col md:flex-row">
+                <article className="flex flex-col justify-between mt-5 md:mt-0 md:w-2/5">
+                    <p className="text-xl font-normal text-[#696464] hidden md:block">
+                        July, 2024
+                    </p>
+                </article>
+                <article className="md:w-3/5 px-[48px] mt-10 md:mt-0">
+                    <p className="text-2xl font-semibold text-[#696464]">
+                        PMAT Thailand HR Tech 2024
+                    </p>
+                    {/* <p className="text-xl font-semibold text-[#FC8178] py-4">
+                        Product Blend: Where Business, Tech, Design, Data come together flawlessly.
+                    </p> */}
+                    <p className="text-xl font-normal text-[#696464] md:hidden block mb-5">
+                        July, 2024
+                    </p>
+                    <p className="text-xl font-normal text-[#696464]">
+                        | PMAT
+                    </p>
+                    <ul class="list-disc text-xl font-normal text-[#696464] pl-[24px] py-4 mb-0 md:mb-24">
+                        <li>HR TECH CONFERENCE: Featuring 4 Main Stages, 16 Parts, and 100 Sessions to discuss topics related to Business, Organization, People, Workplace, Wellbeing, and AI/Data.</li>
+                        <li>HR TECH EXHIBITION: A full-scale exhibition covering a 7,000 sq.m. area, showcasing and allowing hands-on experiences with over 100 HR Technology and Solutions products.</li>
+                        <li>STARTUP DEMO PITCH: A platform for HR Tech Startups to showcase their innovative ideas, present business concepts, and compete for awards.</li>
+                        <li>HR TECH FOR WELLBEING: Unveiling new dimensions of employee physical and mental wellness, sharing concepts, methods, and technologies to promote employee happiness and organizational growth.</li>
+                        <li>WORKSHOP: Hands-on sessions designed by leading speakers and instructors from top organizations.</li>
+                        <li>NETWORKING: Providing opportunities for participants to engage and connect with fellow HR professionals.</li>
+                    </ul>
+                    <article className="w-full">
+                        <img className="w-full mx-auto mb-[20px] relative z-10" src="./HRtech.jpg" />
+                    </article>
+                </article>
+            </section>
+            {/* <section className="w-full flex px-[48px] gap-5 flex-col md:flex-row">
+                <article className="w-full">
+                    <img className="w-full mx-auto mb-[20px] relative z-10" src="./HRtech.jpg" />
+                </article>
+            </section> */}
+
+            <section className="md:mx-24 md:mt-[100px] md:mb-24 flex flex-col md:flex-row">
+                <article className="flex flex-col justify-between mt-5 md:mt-0 md:w-2/5">
                     <p className="text-xl font-normal text-[#696464] hidden md:block">
                         November, 2023 - February, 2024
                     </p>
                 </article>
-                <article className="md:w-3/5 px-[48px]">
+                <article className="md:w-3/5 px-[48px] mt-10 md:mt-0">
                     <p className="text-2xl font-semibold text-[#696464]">
                         Bootcamp
                     </p>
@@ -52,6 +198,14 @@ const Experiences = () => {
                     </ul>
                 </article>
             </section>
+            <section className="w-full flex px-[48px] gap-5 flex-col md:flex-row">
+                <article className="w-full">
+                    <img className="w-full mx-auto mb-[20px] relative z-10" src="./Bootcamp1.jpg" />
+                </article>
+                <article className="w-full">
+                    <img className="w-full mx-auto mb-[20px] relative z-10" src="./Bootcamp2.jpg" />
+                </article>
+            </section>
 
             <section className="md:mx-24 md:mt-24 md:mb-24 flex flex-col md:flex-row">
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
@@ -63,8 +217,8 @@ const Experiences = () => {
                         July, 2023 - August, 2023
                     </p>
                 </article>
-                <article className="md:w-3/5 px-[48px]">
-                    <p className="text-2xl font-semibold text-[#696464] mt-10 md:mt-0">
+                <article className="md:w-3/5 px-[48px] mt-10 md:mt-0">
+                    <p className="text-2xl font-semibold text-[#696464]">
                         Internship
                     </p>
                     <p className="text-xl font-semibold text-[#FC8178] py-4">
@@ -106,8 +260,8 @@ const Experiences = () => {
                         June, 2022 - August, 2022
                     </p>
                 </article>
-                <article className="md:w-3/5 px-[48px]">
-                    <p className="text-2xl font-semibold text-[#696464] mt-10 md:mt-0">
+                <article className="md:w-3/5 px-[48px] mt-10 md:mt-0">
+                    <p className="text-2xl font-semibold text-[#696464]">
                         Internship
                     </p>
                     <p className="text-xl font-semibold text-[#FC8178] py-4">
