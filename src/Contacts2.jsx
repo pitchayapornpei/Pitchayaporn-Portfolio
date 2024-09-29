@@ -17,11 +17,11 @@ const Contacts2 = () => {
                 {/* <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
                             rounded-[100%] absolute z-2 top-[100%] left-[50%] translate-x-[80%] translate-y-[6650%]
                             blur-[100px]">
-                </div>
-                <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-2 top-[10%] left-[50%] translate-x-[-500%] translate-y-[7000%]
-                            blur-[100px]">
                 </div> */}
+                <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
+                            rounded-[100%] absolute z-2 top-[30%] left-[50%] translate-x-[-500%] translate-y-[7000%]
+                            blur-[100px]">
+                </div>
                 {/* <h1 className="bg-gradient-to-r from-[#FC8178] via-[#FA9E97] to-[#F8C7C3] inline-block text-transparent bg-clip-text text-5xl font-bold drop-shadow">Contacts</h1> */}
                 <Title text={"Contacts"} />
             </article>
