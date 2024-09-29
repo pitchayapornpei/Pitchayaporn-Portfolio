@@ -15,7 +15,7 @@ const Projects = () => {
         <>
             <article className="flex mb-24 mt-5 md:mt-[200px] md:w-full justify-center pt-20" id="projects">
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-2 top-[50%] left-[50%] translate-x-[-150%] translate-y-[4200%]
+                            rounded-[100%] absolute z-2 top-[1000%] left-[50%] translate-x-[-150%] translate-y-[4200%]
                             blur-[80px]">
                 </div>
                 {/* <h1 className="bg-gradient-to-r from-[#FC8178] via-[#FA9E97] to-[#F8C7C3] inline-block text-transparent bg-clip-text text-5xl font-bold drop-shadow">Projects</h1> */}
