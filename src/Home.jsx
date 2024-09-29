@@ -18,7 +18,7 @@ const Home = () => {
                             blur-[150px]">
                 </div>
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-0 top-[110%] translate-x-[20%] translate-y-[170%] md:translate-x-[50%] md:translate-y-[120%]
+                            rounded-[100%] absolute z-0 top-[90%] translate-x-[20%] translate-y-[170%] md:translate-x-[50%] md:translate-y-[120%]
                             blur-[50px]">
                 </div>
                 <article className="text-center w-full md:text-start mt-5 md:mt-0 md:w-3/5">
