@@ -15,7 +15,7 @@ const Contacts2 = () => {
         <>
             <article className="flex mt-5 md:mt-0 md:w-full justify-center" id="contacts">
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-2 top-[540%] left-[50%] translate-x-[80%] translate-y-[6650%]
+                            rounded-[100%] absolute z-2 top-[530%] left-[50%] translate-x-[80%] translate-y-[6650%]
                             blur-[100px]">
                 </div>
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
