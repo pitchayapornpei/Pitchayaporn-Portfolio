@@ -57,10 +57,10 @@ const Experiences = () => {
             </section>
 
             <section className="md:mx-24 md:mt-24 md:mb-24 flex flex-col md:flex-row">
-                <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
+                {/* <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
                             rounded-[100%] absolute z-0 top-[90%] translate-x-[-50%] translate-y-[2300%]
                             blur-[100px]">
-                </div>
+                </div> */}
                 <article className="mt-5 md:mt-0 md:w-2/5">
                     <p className="text-xl font-normal text-[#696464] hidden md:block">
                         October, 2023 - November, 2023 &
