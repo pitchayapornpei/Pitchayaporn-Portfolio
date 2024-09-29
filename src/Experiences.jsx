@@ -15,7 +15,7 @@ const Experiences = () => {
         <>
             <article className="flex mt-5 md:mt-[200px] md:w-full justify-center pt-20" id="experiences">
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-2 top-[100%] left-[50%] translate-x-[100%] translate-y-[900%]
+                            rounded-[100%] absolute z-2 top-[120%] left-[50%] translate-x-[100%] translate-y-[900%]
                             blur-[100px]">
                 </div>
                 <div className="relative z-10">
