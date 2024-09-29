@@ -14,7 +14,7 @@ const Home = () => {
         <>
             <section className="justify-center px-5 md:justify-start md:mt-24 md:mb-24 flex flex-col md:flex-row">
                 <div className="circleposition w-[200px] h-[200px] md:w-[400px] md:h-[400px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-0 top-[50%] left-[65%] translate-x-[-50%] translate-y-[-50%]
+                            rounded-[100%] absolute z-0 top-[50%] left-[70%] translate-x-[-50%] translate-y-[-50%]
                             blur-[150px]">
                 </div>
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
