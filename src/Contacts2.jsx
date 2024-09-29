@@ -15,11 +15,11 @@ const Contacts2 = () => {
         <>
             <article className="flex mt-5 md:mt-0 md:w-full justify-center" id="contacts">
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-2 top-[20%] left-[50%] translate-x-[80%] translate-y-[6650%]
+                            rounded-[100%] absolute z-2 top-[50%] left-[50%] translate-x-[80%] translate-y-[6650%]
                             blur-[100px]">
                 </div>
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-2 top-[20%] left-[50%] translate-x-[-500%] translate-y-[7000%]
+                            rounded-[100%] absolute z-2 top-[65%] left-[50%] translate-x-[-500%] translate-y-[7000%]
                             blur-[100px]">
                 </div>
                 {/* <h1 className="bg-gradient-to-r from-[#FC8178] via-[#FA9E97] to-[#F8C7C3] inline-block text-transparent bg-clip-text text-5xl font-bold drop-shadow">Contacts</h1> */}
