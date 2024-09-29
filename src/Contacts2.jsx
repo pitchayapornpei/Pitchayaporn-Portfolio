@@ -14,11 +14,11 @@ const Contacts2 = () => {
     return (
         <>
             <article className="flex mt-5 md:mt-0 md:w-full justify-center" id="contacts">
-                <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
-                            rounded-[100%] absolute z-2 top-[1000%] left-[50%] translate-x-[80%] translate-y-[6650%]
+                {/* <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
+                            rounded-[100%] absolute z-2 top-[100%] left-[50%] translate-x-[80%] translate-y-[6650%]
                             blur-[100px]">
                 </div>
-                {/* <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
+                <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
                             rounded-[100%] absolute z-2 top-[10%] left-[50%] translate-x-[-500%] translate-y-[7000%]
                             blur-[100px]">
                 </div> */}
