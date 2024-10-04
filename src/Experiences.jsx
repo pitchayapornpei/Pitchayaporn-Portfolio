@@ -207,6 +207,42 @@ const Experiences = () => {
                 </article>
             </section>
 
+            <section className="md:mx-24 md:mt-[100px] md:mb-24 flex flex-col md:flex-row">
+                <article className="flex flex-col justify-between mt-5 md:mt-0 md:w-2/5">
+                    <p className="text-xl font-normal text-[#696464] hidden md:block">
+                        June, 2023
+                    </p>
+                </article>
+                <article className="md:w-3/5 px-[48px] mt-10 md:mt-0">
+                    <p className="text-2xl font-semibold text-[#696464]">
+                        Metrics that Matter: Measuring Design Experience
+                    </p>
+                    {/* <p className="text-xl font-semibold text-[#FC8178] py-4">
+                        Junior Software Developer Programme(Cohort 6)
+                    </p> */}
+                    <p className="text-xl font-normal text-[#696464] md:hidden block mb-5">
+                        June, 2023
+                    </p>
+                    <p className="text-xl font-normal text-[#696464]">
+                        | AXONS x NocNoc
+                    </p>
+                    <ul class="list-disc text-xl font-normal text-[#696464] pl-[24px] py-4">
+                        <li>
+                            The session content focuses on introducing UX/UI professionals to Measurable Design, covering processes, tools, and the benefits of measurement. It also includes experience sharing from expert UX/UI speakers who provide real-world insights and case studies. Additionally, a Q&A session is open for participants to ask questions and clear any doubts they may have.
+                        </li>
+
+                    </ul>
+                </article>
+            </section>
+            <section className="w-full flex px-[48px] gap-5 flex-col md:flex-row">
+                <article className="w-full">
+                    <img className="w-full mx-auto mb-[20px] relative z-10" src="./UXUI1.jpg" />
+                </article>
+                <article className="w-full">
+                    <img className="w-full mx-auto mb-[20px] relative z-10" src="./UXUI2.jpg" />
+                </article>
+            </section>
+
             <section className="md:mx-24 md:mt-24 md:mb-24 flex flex-col md:flex-row">
                 <div className="circleposition w-[100px] h-[100px] bg-[#FF5B4F] 
                             rounded-[100%] absolute z-0 top-[90%] translate-x-[-50%] translate-y-[2300%]
