@@ -27,7 +27,8 @@ const Contacts2 = () => {
             </article>
             <article className="flex mt-5 md:mt-0 md:w-full justify-center">
                 <p className="text-xl font-normal text-[#696464] text-center m-[40px]">
-                    I'm currently specializing in Business Analyst | Product Owner | Junior Software Developer | Front-end Developer | UX/UI Designer.<br></br>
+                    I'm currently specializing in Business Analyst | Product Owner | Junior Software Developer |
+                    <br></br>Front-end Developer | UX/UI Designer.<br></br>
                     Feel free to get in touch and talk more about your projects.
                 </p>
             </article>
